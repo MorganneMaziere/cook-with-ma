@@ -1,0 +1,26 @@
+.banner {
+  background-image: url('../images/background_banner.jpg'); 
+  width: 100%;
+	background-size: cover;     
+	background-position: center;
+  padding: 37px 0px;
+}
+
+.banner h1 {
+  color: black;
+  font-size: 50px;
+  font-family: 'Pacifico', cursive;
+  justify-content: center;
+  align-items: center;
+  letter-spacing: 2px;
+}
+
+.banner h2 {
+  color: black;
+  font-size: 30px;
+  font-weight: lighter;
+  opacity: 0.8;
+  margin-bottom: 40px;
+}
+
+
